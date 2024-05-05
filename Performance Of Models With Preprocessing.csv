@@ -1,0 +1,5 @@
+,Training Image,Model,Parameters,Accuracy,Precision,F1 Score
+0,15,"RandomForestClassifier(max_depth=80, n_estimators=12, n_jobs=-1)","{'n_jobs': -1, 'n_estimators': 12, 'max_depth': 80}",14.473684210526317,39.479166666666664,10.499999999999998
+1,10,"RandomForestClassifier(max_depth=80, n_estimators=12, n_jobs=-1)","{'n_jobs': -1, 'n_estimators': 12, 'max_depth': 80}",17.647058823529413,45.76271186440678,11.864406779661017
+2,5,"RandomForestClassifier(max_depth=80, n_estimators=12, n_jobs=-1)","{'n_jobs': -1, 'n_estimators': 12, 'max_depth': 80}",7.6923076923076925,52.25225225225225,3.7837837837837833
+3,3,"RandomForestClassifier(max_depth=80, n_estimators=12, n_jobs=-1)","{'n_jobs': -1, 'n_estimators': 12, 'max_depth': 80}",0.0,53.57142857142857,0.0
